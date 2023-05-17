@@ -1,7 +1,7 @@
 #include "stdio.h"
 
-int main(int argc, char const *argv[])
+int main()
 { 
-    printf("buen dia para todo \n los que estan despiertos \n");
+    printf("Buen dia para todo \n los que estan despiertos \n");
     return 0;
 }
